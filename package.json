@@ -101,7 +101,7 @@
     "react-chat-widget": "3.0.5",
     "react-full-screen": "0.2.5",
     "styled-components": "5.3.10",
-    "@iconify/icons-ion": "1.2.8",
+    "@iconify/icons-ion": "1.2.10",
     "axios-mock-adapter": "1.17.0",
     "intl-messageformat": "7.8.4",
     "react-animated-css": "1.2.1",
